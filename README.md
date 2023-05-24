@@ -30,14 +30,14 @@ If you're still reading me, why don't we connect?</h4>
 <!-- 	<div align="center">
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761152eb846fc54d8be562e00795b8a367e2e165e292&rid=giphy.gif&ct=g" height="350" width="320" /> -->
 	
-<div style="display: flex">
-	<a href="https://codeninjaconsulting.com"  target="_blank" style="width:25%;">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" /></a>
-		<a href="https://codeninjaconsulting.com"  target="_blank" style="width:25%;">
+<div style="display: flex; justify-content: space-around">
+	<a href="https://codeninjaconsulting.com"  target="_blank">
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" / width:"600px"></a>
+		<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" /></a>
-		<a href="https://codeninjaconsulting.com"  target="_blank" style="width:25%;">
+		<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Abhi.jpg" /></a>
-		<a href="https://codeninjaconsulting.com"  target="_blank" style="width:25%;">
+		<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Graana.jpg" /></a>
 </div>
 <div style="display: inline-block">
