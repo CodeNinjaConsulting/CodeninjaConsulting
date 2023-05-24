@@ -30,17 +30,13 @@ If you're still reading me, why don't we connect?</h4>
 <!-- 	<div align="center">
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761152eb846fc54d8be562e00795b8a367e2e165e292&rid=giphy.gif&ct=g" height="350" width="320" /> -->
 	
-<h3>Frontend:</h3><div style="display: inline-block">
+<div style="display: inline-block">
 	<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-   <img align="center"alt="GRAPHQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
-    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-   <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="HTML5" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" />
+ <img align="center" alt="HTML5" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" />
+	<img align="center" alt="HTML5" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" />
+   
 	<br>
 	<br>
    <img align="center" alt="Vanilla.js" src="https://img.shields.io/badge/Vanilla.js-0081CB?style=for-the-badge&logo=Vanilla.js&logoColor=white" />
