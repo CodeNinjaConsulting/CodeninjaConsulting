@@ -30,15 +30,15 @@ If you're still reading me, why don't we connect?</h4>
 <!-- 	<div align="center">
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761152eb846fc54d8be562e00795b8a367e2e165e292&rid=giphy.gif&ct=g" height="350" width="320" /> -->
 	
-<div style="display: inline-block">
+<div style="display: flex">
 	<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Abhi.jpg" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Graana.jpg" /></a>
 </div>
 <div style="display: inline-block">
    <img align="center" alt="Vanilla.js" src="https://img.shields.io/badge/Vanilla.js-0081CB?style=for-the-badge&logo=Vanilla.js&logoColor=white" />
