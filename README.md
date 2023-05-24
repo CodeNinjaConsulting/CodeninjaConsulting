@@ -32,13 +32,13 @@ If you're still reading me, why don't we connect?</h4>
 	
 <div style="display: flex; justify-content: space-around">
 	<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg"  width="630" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg"  width="250" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" width="250" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Abhi.jpg" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Abhi.jpg" width="250" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Graana.jpg" /></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Graana.jpg" width="250" /></a>
 </div>
 <div style="display: inline-block">
    <img align="center" alt="Vanilla.js" src="https://img.shields.io/badge/Vanilla.js-0081CB?style=for-the-badge&logo=Vanilla.js&logoColor=white" />
