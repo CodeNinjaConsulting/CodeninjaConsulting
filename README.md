@@ -33,11 +33,11 @@ If you're still reading me, why don't we connect?</h4>
 <div style="display: flex; justify-content: space-around">
 	<a href="https://worklics.com/"  target="_blank" style="margin-top: 5px">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg"  width="240"/></a>
-		<a href="https://www.zarya.app/"  target="_blank" style="margin-top: 5px>
+		<a href="https://www.zarya.app/"  target="_blank" style="margin-top: 5px">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" width="240" /></a>
-		<a href="https://abhi.com.pk/"  target="_blank" style="margin-top: 5px>
+		<a href="https://abhi.com.pk/"  target="_blank" style="margin-top: 5px">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Abhi.jpg" width="240" /></a>
-		<a href="https://www.graana.com/"  target="_blank" style="margin-top: 5px>
+		<a href="https://www.graana.com/"  target="_blank" style="margin-top: 5px">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Graana.jpg" width="240" /></a>
 </div>
 
