@@ -33,9 +33,13 @@ If you're still reading me, why don't we connect?</h4>
 <div style="display: inline-block">
 	<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <img align="center" alt="HTML5" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" />
- <img align="center" alt="HTML5" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" />
-	<img align="center" alt="HTML5" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" />
+		<a href="https://codeninjaconsulting.com"  target="_blank">
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+		<a href="https://codeninjaconsulting.com"  target="_blank">
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+		<a href="https://codeninjaconsulting.com"  target="_blank">
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+
    
 	<br>
 	<br>
