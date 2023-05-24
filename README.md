@@ -39,10 +39,7 @@ If you're still reading me, why don't we connect?</h4>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-
-   
-	<br>
-	<br>
+</div>
    <img align="center" alt="Vanilla.js" src="https://img.shields.io/badge/Vanilla.js-0081CB?style=for-the-badge&logo=Vanilla.js&logoColor=white" />
    <img align="center" alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
    <img align="center" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
