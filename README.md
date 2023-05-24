@@ -31,13 +31,13 @@ If you're still reading me, why don't we connect?</h4>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761152eb846fc54d8be562e00795b8a367e2e165e292&rid=giphy.gif&ct=g" height="350" width="320" /> -->
 	
 <div style="display: flex; justify-content: space-around">
-	<a href="https://worklics.com/"  target="_blank">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg"  width="240" style="margin-top:20px"/></a>
-		<a href="https://www.zarya.app/"  target="_blank">
+	<a href="https://worklics.com/"  target="_blank" style="margin-top: 5px">
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg"  width="240"/></a>
+		<a href="https://www.zarya.app/"  target="_blank" style="margin-top: 5px>
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" width="240" /></a>
-		<a href="https://abhi.com.pk/"  target="_blank">
+		<a href="https://abhi.com.pk/"  target="_blank" style="margin-top: 5px>
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Abhi.jpg" width="240" /></a>
-		<a href="https://www.graana.com/"  target="_blank">
+		<a href="https://www.graana.com/"  target="_blank" style="margin-top: 5px>
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Graana.jpg" width="240" /></a>
 </div>
 
