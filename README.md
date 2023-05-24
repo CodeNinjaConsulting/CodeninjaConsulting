@@ -32,7 +32,7 @@ If you're still reading me, why don't we connect?</h4>
 	
 <div style="display: flex; justify-content: space-around">
 	<a href="https://codeninjaconsulting.com"  target="_blank">
-    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg" / width:"600px"></a>
+    <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/lensxm.jpg"  width="630" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
     <img align="center" alt="Javascript" src="https://codeninjaconsulting.com/wp-content/uploads/2023/05/Zarya.jpg" /></a>
 		<a href="https://codeninjaconsulting.com"  target="_blank">
